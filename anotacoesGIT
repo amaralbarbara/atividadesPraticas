@@ -1,0 +1,8 @@
+# Criando uma cópia de segurança no Github, usando o GIT e salvando o histórico de alterações do seu projeto.
+1. Abra o terminal na pasta do projeto no seu computador.
+2. Digite o comando "git init" para inicializar o repositório local.
+3. Digite o comando "git add ." para preparar todas as pastas e arquivos.
+4. Digite o comando "git commit -m" seguido da sua mensagem entre aspas para salvar as alterações localmente.
+5. Digite o comando "git branch -M main" para definir o nome da ramificação principal.
+6. Copie a linha "git remote add origin" com a URL gerada no GitHub e cole no terminal para conectar o projeto local ao servidor.
+7. Digite o comando "git push -u origin main" para enviar os arquivos para o GitHub pela primeira vez.
